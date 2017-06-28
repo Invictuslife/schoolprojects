@@ -2,7 +2,7 @@ import os
 import random
 
 # draw grid
-
+# get new stuff
 # pick random location for the player
 # pick random location for exit door
 # pick random location for the monster
